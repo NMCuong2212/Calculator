@@ -14,7 +14,7 @@
         android:layout_height="170dp"
         android:layout_marginHorizontal="10dp"
         android:fontFamily="sans-serif-medium"
-        android:gravity="end"
+        android:gravity="center|end"
         android:textColor="@color/black"
         android:textSize="50dp"
         app:layout_constraintBottom_toTopOf="@+id/buttonlayout"
